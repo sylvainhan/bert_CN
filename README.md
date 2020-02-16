@@ -14,7 +14,7 @@ tensorflow>=1.11.0
 - `dev.tsv` Collection de Vérification
 
 ----
-# Installation d'env
+# Installer l'environnement
 
 
 ## Télécharger et Installer Anaconda
